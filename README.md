@@ -42,9 +42,6 @@ Year-Wise Trends: Analyze the distribution of EV models over the years to unders
 
 
 
-<img width="957" alt="ev_ss" src="https://github.com/user-attachments/assets/6eaea4f8-0734-410e-937f-c14b745a62c8">
-
-
 
 
 
